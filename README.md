@@ -3,19 +3,15 @@
 # Laboratorio Computacion Grafica e Interaccion Hhumano-Computadora
 # Datos
 ```
-Alumno: Sánchez Alvirde Andrés Iván
+ALUMNO: SÁNCHEZ ALVIRDE ANDRÉS IVÁN
 ```
 ```
-Número de cuenta
+NÚMERO DE CUENTA: 318247225
 ```
 ```
-YOU ARE WORTH IT
+GRUPO DE LABORATORIO: 11
 ```
 ```
-YOU ARE STRONG
+SEMESTRE: 2025-2
 ```
-```
-ONE DAY YOU'LL BE ABLE TO SAY "I MADE IT"
-```
----
-ATT: [Da1ko](https://github.com/Da1ko) ❤️ 
+
