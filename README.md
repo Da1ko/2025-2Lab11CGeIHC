@@ -1,15 +1,12 @@
 # 2025-2Lab11CGeIHC
 # Repositorio para las prácticas 
 # Laboratorio Computacion Grafica e Interaccion Hhumano-Computadora
-- _Facultad de Ingeniería - Universidad Nacional Autónoma de México (UNAM)._
-- Eale
-- Hola mundo
-# Daily remember 
+# Datos
 ```
-SMILE
+Alumno: Sánchez Alvirde Andrés Iván
 ```
 ```
-DRINK YOUR WATER
+Número de cuenta
 ```
 ```
 YOU ARE WORTH IT
