@@ -1,6 +1,7 @@
 # 2025-2Lab11CGeIHC
 # Repositorio para las prácticas 
 # Laboratorio Computacion Grafica e Interaccion Hhumano-Computadora
+- Facultad de Ingenieria - UNAM
 # Datos
 ```
 ALUMNO: SÁNCHEZ ALVIRDE ANDRÉS IVÁN
