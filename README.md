@@ -1,5 +1,6 @@
 # 2025-2Lab11CGeIHC
-# Repositorio para las prácticas de laboratorio Computacion Grafica e Interaccion Hhumano-Computadora
+# Repositorio para las prácticas 
+# Laboratorio Computacion Grafica e Interaccion Hhumano-Computadora
 - _Facultad de Ingeniería - Universidad Nacional Autónoma de México (UNAM)._
 - Eale
 - Hola mundo
